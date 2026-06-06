@@ -1,0 +1,19 @@
+[project]
+name = "naive_bayes"
+version = "0.0.1"
+description = ""
+authors = [
+    {name="noah-daniels", email="noahdaniels2001@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+dependencies = ["numpy", "scipy", "matplotlib", "pandas", "tables", "fastparquet", "seaborn", "ipywidgets", "dotenv", "tqdm", "torch"]
+
+[build-system]
+requires = ["hatchling >= 1.26"]
+build-backend = "hatchling.build"
+
+[tool.autopep8]
+max_line_length = 120
