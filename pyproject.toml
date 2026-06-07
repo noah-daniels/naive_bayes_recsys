@@ -9,7 +9,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 license = "MIT"
 license-files = ["LICEN[CS]E*"]
-dependencies = ["numpy", "scipy", "matplotlib", "pandas", "tables", "fastparquet", "seaborn", "ipywidgets", "dotenv", "tqdm", "torch"]
+dependencies = ["numpy", "scipy", "matplotlib", "pandas", "tables", "fastparquet", "seaborn", "ipywidgets", "dotenv", "tqdm", "torch", "scikit-learn", "tables"]
 
 [build-system]
 requires = ["hatchling >= 1.26"]
