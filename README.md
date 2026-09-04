@@ -15,7 +15,7 @@
     - MovieLens can be found [here](https://grouplens.org/datasets/movielens/) (download 25M version)
     - MIND can be found [here](https://msnews.github.io/) (download train and validation sets)
     - Amazon Books can be found [here](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/) (download the 5-core version)
-1. Copy `.env.example` and rename it to `.env`, change data path is desired.
+1. Copy `.env.example` and rename it to `.env`, change data path if desired.
 
 ## Run experiments
 
