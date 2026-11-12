@@ -1,5 +1,7 @@
 # Theoretically Sound Item Similarity Measures for Recommender Systems
 
+Paper preprint: https://arxiv.org/abs/2610.34402
+
 ## Overview
 
 - See `src/naive_bayes/algorithms` for implementations.
